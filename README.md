@@ -13,6 +13,8 @@ The disassemble steps is :
 5. remove RAM
 6. remove fan and heatsink
 7. After that, for the assemble steps just do the vice versa. This workshop also helped me understand the function of each PC hardware component and the potential consequences of hardware failure.
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fatin Syakirah
 ======================================================================================================================================
 
