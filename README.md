@@ -1,3 +1,5 @@
+We completed Assignment 3 by attending an online industry talk on 23 December 2024.It hosted by Encik Nik Mohd Habibullah, chief executive officer of Micro Semiconductor Sdn. Bhd. and Encik Mohd Hakimi Iqmall, information technology officer of UTM Digital. 
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
