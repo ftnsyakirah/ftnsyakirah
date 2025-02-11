@@ -3,6 +3,7 @@ We completed our last assignment, which was due on 12 February 2025, by attendin
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Our Design Thinking project, focused on 'Innovation for Disadvantaged Groups,' was completed ahead of schedule on 17 January 2025, before 12 PM.  Our group developed 'Handy Lingua,' a sign language application. This is our group video & report:
+
 https://youtu.be/NM0VRr5gmQI
 
 [Group6_report (2).pdf](https://github.com/user-attachments/files/18754320/Group6_report.2.pdf)
@@ -10,6 +11,7 @@ https://youtu.be/NM0VRr5gmQI
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 We completed Assignment 3, which was due on 23 December 2024, by attending an online industry talk.It hosted by Encik Nik Mohd Habibullah, chief executive officer of Micro Semiconductor Sdn. Bhd. and Encik Mohd Hakimi Iqmall, information technology officer of UTM Digital. 
+
 [Assignment3-Group6.pdf](https://github.com/user-attachments/files/18754111/Assignment3-Group6.pdf)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
