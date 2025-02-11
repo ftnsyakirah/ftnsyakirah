@@ -21,20 +21,17 @@ We completed Assignment 2 by visiting UTM Digital on 17 December 2024 to gain mo
 https://youtu.be/D40cjuKqNL8?si=i2pjeQku2JD9Iz3c
 
 These are my group members who always work together on assignments.
+
 ![image](https://github.com/user-attachments/assets/3ed27aa1-b5ad-417d-a97f-febbbcd45e8a)
 ![image](https://github.com/user-attachments/assets/38e86321-12f4-45ce-bceb-a173722cc049)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Our group completed Assignment 1 by attending an online industry talk hosted by Clarity Techworks on 10 November 2024. The assignment required us to create a poster summarizing the key takeaways from the talk. 
+
 ![image](https://github.com/user-attachments/assets/43b58a2d-c03c-4c85-a720-5a4df079a992)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![image](https://github.com/user-attachments/assets/149ba2df-c8fb-440c-b9ab-8f081a00c0a7) [image](https://github.com/user-attachments/assets/32492c71-8a15-4a70-91f7-4e01acfe5068).
-![image](https://github.com/user-attachments/assets/603f828c-1036-4be3-880b-f2e00ddd2790)
-![image](https://github.com/user-attachments/assets/93739dd2-9b5b-49ba-94ab-61860065eedc)
-![image](https://github.com/user-attachments/assets/3bf5dd18-33db-4077-b124-73776ff485ca)
 
 We had a PC Maintenance workshop on 20/10/2024 at innovation lab. We learned how to correctly disassemble and reassemble a PC following the right steps.
 The disassemble steps is :
@@ -46,6 +43,13 @@ The disassemble steps is :
 5. remove RAM
 6. remove fan and heatsink
 7. After that, for the assemble steps just do the vice versa. This workshop also helped me understand the function of each PC hardware component and the potential consequences of hardware failure.
+   
+![image](https://github.com/user-attachments/assets/149ba2df-c8fb-440c-b9ab-8f081a00c0a7) [image](https://github.com/user-attachments/assets/32492c71-8a15-4a70-91f7-4e01acfe5068).
+![image](https://github.com/user-attachments/assets/603f828c-1036-4be3-880b-f2e00ddd2790)
+![image](https://github.com/user-attachments/assets/93739dd2-9b5b-49ba-94ab-61860065eedc)
+![image](https://github.com/user-attachments/assets/3bf5dd18-33db-4077-b124-73776ff485ca)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fatin Syakirah
