@@ -1,10 +1,23 @@
-We completed Assignment 3 by attending an online industry talk on 23 December 2024.It hosted by Encik Nik Mohd Habibullah, chief executive officer of Micro Semiconductor Sdn. Bhd. and Encik Mohd Hakimi Iqmall, information technology officer of UTM Digital. 
+We completed our last assignment, which was due on 12 February 2025, by attending an online industry talk. Our group was assigned to create a newsletter about an industry talk on Huawei. 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Design Thinking project, focused on 'Innovation for Disadvantaged Groups,' was completed ahead of schedule on 17 January 2025, before 12 PM.  Our group developed 'Handy Lingua,' a sign language application. This is our group video & report:
+https://youtu.be/NM0VRr5gmQI
+
+[Group6_report (2).pdf](https://github.com/user-attachments/files/18754320/Group6_report.2.pdf)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We completed Assignment 3, which was due on 23 December 2024, by attending an online industry talk.It hosted by Encik Nik Mohd Habibullah, chief executive officer of Micro Semiconductor Sdn. Bhd. and Encik Mohd Hakimi Iqmall, information technology officer of UTM Digital. 
+[Assignment3-Group6.pdf](https://github.com/user-attachments/files/18754111/Assignment3-Group6.pdf)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 We completed Assignment 2 by visiting UTM Digital on 17 December 2024 to gain more knowledge about working culture in Computer Science industry. This is our group's YouTube link for the UTM Digital Vlog:
+
 https://youtu.be/D40cjuKqNL8?si=i2pjeQku2JD9Iz3c
+
 These are my group members who always work together on assignments.
 ![image](https://github.com/user-attachments/assets/3ed27aa1-b5ad-417d-a97f-febbbcd45e8a)
 ![image](https://github.com/user-attachments/assets/38e86321-12f4-45ce-bceb-a173722cc049)
