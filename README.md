@@ -1,5 +1,7 @@
 We completed our last assignment, which was due on 12 February 2025, by attending an online industry talk. Our group was assigned to create a newsletter about an industry talk on Huawei. 
 
+[FEBRUARY 2025.pdf](https://github.com/user-attachments/files/18760810/FEBRUARY.2025.pdf)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Our Design Thinking project, focused on 'Innovation for Disadvantaged Groups,' was completed ahead of schedule on 17 January 2025, before 12 PM.  Our group developed 'Handy Lingua,' a sign language application. This is our group video & report:
